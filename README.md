@@ -27,7 +27,7 @@ This project is a fully containerized microservices-based social media platform.
 ## Key Highlights
 - Autoscaling with Kubernetes HPA
 - Event-driven communication (RabbitMQ)
-- >90% test coverage with SonarQube
+- Achieved >80% test coverage with SonarQube
 
 ## Repositories
 - **API Gateway:** https://github.com/hridho1/twitter-clone-api-gateway
